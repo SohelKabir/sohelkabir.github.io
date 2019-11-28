@@ -14,7 +14,7 @@ export default class About extends Component {
                     <span className="heading-meta">About Us</span>
                     <h2 className="colorlib-heading">Who Am I?</h2>
                     <p>Hi! I'm Mohammad Nurul Kabir Sohel, recently I have graduated from North South University from department of Electrical and Computer Engineering. </p>
-                    <p>Right now I'm looking forwaard to build my career in a professional organization where I can learn and develop my skills to be ready for the future challenges.</p>
+                    <p>Right now I'm looking forward to build my career in a professional organization where I can learn and develop my skills to be ready for the future challenges.</p>
                     </div>
                 </div>
                 </div>
