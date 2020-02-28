@@ -7,4 +7,4 @@
   - run `npm install` to instal node modules
   - run `npm start` to start the service on `localhost:3000`
     
-##### deployed app : https://sohel-portfolio-app.herokuapp.com/
+##### deployed app : https://sohel-portfolio-app.herokuapp.com/   and   http://sohelkabir.tech/
