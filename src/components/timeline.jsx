@@ -36,7 +36,7 @@ export default class Timeline extends Component {
                       </div>
                       <div className='timeline-label'>
                         <h2>
-                          Software Engineer,
+                          Software Engineer
                           <span> Nanoid Limited, Dhaka, May '21 - Present</span>
                         </h2>
                         <p>
@@ -100,7 +100,7 @@ export default class Timeline extends Component {
                           Junior Software Engineer{' '}
                           <span>
                             Star Computer Systems Limited, Dhaka, Jan '20 - July
-                            '21
+                            '20
                           </span>
                         </h2>
                         <p>
